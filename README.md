@@ -1,5 +1,5 @@
-#![4eafb9d14230b57193f327316c0760d1](https://github.com/user-attachments/assets/49ea7ee1-1fcc-49d3-a31c-debbc515208b)
- 💫 About Me:
+# ![4eafb9d14230b57193f327316c0760d1](https://github.com/user-attachments/assets/49ea7ee1-1fcc-49d3-a31c-debbc515208b)
+# 💫 About Me:
 Full Stack Developer with 4+ years of experience building scalable, high-performance web and mobile applications. Skilled in modern technologies including React.js, Next.js, Node.js, Laravel, TypeScript, and Docker, with strong expertise in database management (MySQL, MongoDB, Prisma). Experienced in delivering solutions for international clients (UK, SaaS startups) and collaborating in globally distributed teams.<br><br>Available for worldwide remote opportunities as an independent contractor, with flexibility to work in US time zones (EST). Passionate about writing clean, maintainable code and contributing to innovative products in fast-paced environments.
 
 
